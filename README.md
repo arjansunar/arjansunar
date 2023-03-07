@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjansunar
+- 👋 Hi, I’m **@arjansunar**
 - 👀 I’m interested in web development
 - 🌱 I’m currently working with Django and React
 - 📫 You can reach me on [email](mailto:arjan.gahatrajsunar@gmail.com)
